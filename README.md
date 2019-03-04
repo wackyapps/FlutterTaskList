@@ -11,7 +11,7 @@ A task list flutter app
 
 <img src="https://i.imgur.com/bHb9mm9.png" width="120">
 
-## Getting Started
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
