@@ -1,4 +1,4 @@
-# flutter_tasks_list
+# FlutterTasksList
 
 A task list flutter app
 
